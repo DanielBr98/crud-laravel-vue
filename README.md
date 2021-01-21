@@ -1,7 +1,7 @@
 <h1 align="center">
     CRUD Laravel + Vue.js
 </h1>
-<p align="center">📋 CRUD Laravel with Vue.js</p>
+<p align="center">📋 CRUD(Create, Read, Update, Delete) Laravel with Vue.js</p>
 
 <p align="center">
  <a href="#prerequisites">Prerequisites</a> • 
