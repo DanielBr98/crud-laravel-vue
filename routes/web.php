@@ -13,10 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+$router->group(['prefix' => 'api'], function () use ($router) {
+    include 'contact.php';
 });
 
-Route::get('/test', function () {
-    return 'teste01';
+Route::get('/', function () {
+    return view('/index');
 });
