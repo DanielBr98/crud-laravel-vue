@@ -17,7 +17,7 @@
 ### Prerequisites
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git](https://git-scm.com), [MySQL](https://www.apachefriends.org/index.html). 
+[Git](https://git-scm.com), [MySQL](https://www.apachefriends.org/index.html), [Node.js](https://nodejs.org/en/). 
 Besides, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Running the Back End (server)
